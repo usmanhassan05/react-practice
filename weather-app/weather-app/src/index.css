@@ -1,0 +1,16 @@
+@import "tailwindcss";
+.main{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS6eXGOWzVdmXvouCCDXrnUbMH7MEIfd8yzZla_-TR9Q&s=10');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.forcast{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS6eXGOWzVdmXvouCCDXrnUbMH7MEIfd8yzZla_-TR9Q&s=10');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: black;
+}
+
